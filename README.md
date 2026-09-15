@@ -24,9 +24,9 @@ Concluí a **Formação em Teste de Software e QA pela Iterasys**, com foco em t
 
 ### 📂 Projetos em destaque
 
-- 🔹 [Dengo Chocolates - Automação de Testes Web](https://github.com/gabrielazenilins/Projeto2FTS147)
-- 🔹 [PetStore – Automação de Testes de API](https://github.com/gabrielazenilins/Atividade18FTS147)
-- 🔹 [Swag Labs Mobile — Testes automatizados](https://github.com/gabrielazenilins/Projeto3FTS147)
+- 🔹 [Dengo Chocolates - Automação de Testes Web](https://github.com/gabrielazenilins/dengo-chocolates-web-testing)
+- 🔹 [PetStore – Automação de Testes de API](https://github.com/gabrielazenilins/petstore-api-testing)
+- 🔹 [Swag Labs Mobile — Testes automatizados](https://github.com/gabrielazenilins/swaglabs-mobile-testing)
 
 ---
 
