@@ -10,15 +10,14 @@ Concluí a **Formação em Teste de Software e QA pela Iterasys**, com foco em t
 
 ### 🔧 Tecnologias e ferramentas
 
-**Testes manuais:** Planejamento de testes, casos de teste, técnicas de teste (classes de equivalência, valor limite)
-
-**Automação:** Playwright, WebDriverIO, Appium, JavaScript
-
-**Testes de API:** Postman, Cucumber
-
-**Versionamento:** Git / GitHub
-
-**Metodologias:** Ágil (Scrum/Kanban)
+- **Testes manuais:** planejamento de testes, casos de teste, teste exploratório, classes de equivalência e valor limite
+- **BDD:** Gherkin e Cucumber
+- **Automação web:** Playwright, WebDriverIO, Page Objects, JavaScript
+- **Automação mobile:** Appium
+- **Testes de API:** Postman, Playwright (request)
+- **Documentação de QA:** plano de teste, matriz de rastreabilidade, report de bugs com evidências
+- **Versionamento:** Git e GitHub
+- **Metodologias:** Ágil (Scrum e Kanban)
 
 ---
 
@@ -41,7 +40,7 @@ Concluí a **Formação em Teste de Software e QA pela Iterasys**, com foco em t
 ### 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielazenilins/)
-- 🐙 [GitHub](https://github.com/gabrielazenilins)
+- ✉️ gabrielazeni@gmail.com
 
 ---
 
